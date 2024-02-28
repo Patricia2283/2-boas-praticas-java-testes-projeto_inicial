@@ -1,5 +1,6 @@
 ## 💻 Sobre o projeto
 
+Projeto desenvolvido pela Alura nas aulas sobre automatização de testes com JUnit e Mockito.
 Adopet é um site fictício de adoção de pets, com funcionalidades para cadastro de tutores, de abrigos e de pets, além de solicitação de adoções. Nesse repositório o projeto será uma API Rest em Java do Adopet.
 
 ---
